@@ -1,18 +1,14 @@
-# はじめに
+## はじめに
+みんなでもくもくしてTeckUp!
 
-貴族目指して **Let's もくもく！**
+楽しくもくもくして技術力を上げよう
 
-その名も **『貴族もくもく会』**！！！！
-
-
-# テーマ
-
+## テーマ
 各自が集まって、みんなでやりたいことをやる。以上！
 
 新しい言語やフレームワークに挑戦したり、個人開発アプリに取り組んだり！！
 
 わからないことがあれば周りに聞いたり、逆に教えたりして、みんなで一緒に実りのある時間にしましょう！！
-
 
 # 開催要項
 
@@ -61,26 +57,6 @@
 - プログラミング好きだけど、どこから手をつけていいか分からない
 - 家だとやる気でない
 - 困ってる課題を解決してあげたい
-- 参加して貴族になりたい
-- 焼き鳥が好きな人
-</br>
+- 技術力を上げたい
 
----
-
-# 貴族会とは
-
-毎月第2金曜日の夜、渋谷の貴族が集まる場所で、</br>
-会社も職種も超えて互いに交流を深め合う【貴族達】の</br>
-**「何かおもしろいことやりたい！」** という想いから生まれたグループです！</br>
-
-
-- **[Facebook](https://www.facebook.com/groups/kizokukai/)** や **[Slack](https://join.slack.com/t/kizokukai/shared_invite/enQtMzcyODUzODc4OTk2LWQ0NWUzYzg2MTdkMDI3MjBmNTMxNDlmYzliNGFmM2MzZWRlMDM4NTA0NmI2Nzc5MDM1ODM0N2ZiNDQyZGU2Zjk)** もあります！ 是非ご参加ください！
-
-#### ちなみに
-
-背景の**<span style="color: #F3C108;">黄色</span>**、ロゴの**<span style="color: #B8272E;">赤</span>**、もう[何貴族](https://www.torikizoku.co.jp/)か分かるよねっ！
-
-**参考**
-
-- [判定ツール](http://higashi-dance-network.appspot.com/iromiru/)
-- [判定画像](http://blog-imgs-84.fc2.com/b/i/n/binalike/20151108092610c4e.jpg)
+※もくもく会初めての方も参加歓迎！経験豊富な運営陣が開発やキャリア相談に乗ります！
