@@ -18,6 +18,10 @@
 ↓以下GoogleMap
 https://goo.gl/maps/mRu5JDnpECaS9f1U8
 
+【入場方法】係員の指示で裏口から入場していただきます。
+
+不明点等あれば運営連絡先：[Twitter](https://twitter.com/teckup_tokyo) までご連絡ください。
+
 では、当日は皆様と一緒に、楽しく「もくもく」できることを楽しみにしております！
 どうぞよろしくお願い致します。
 
